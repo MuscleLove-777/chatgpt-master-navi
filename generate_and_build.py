@@ -4,7 +4,7 @@ import sys
 import os
 
 # blog_engineへのパスを追加
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))
 
 from blog_engine.generate_and_build import run
 import config
