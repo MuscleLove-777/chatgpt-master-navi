@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ChatGPT完全攻略ナビ</title>
+    <link>https://musclelove-777.github.io/chatgpt-master-navi</link>
+    <description>ChatGPTの使い方・GPT最新モデル情報・料金プラン比較・プロンプト術を毎日更新。初心者から上級者まで、ChatGPTを最大限活用するための日本語情報サイト。</description>
+    <language>ja</language>
+    <lastBuildDate>Wed, 01 Apr 2026 23:14:37 +0900</lastBuildDate>
+    <atom:link href="https://musclelove-777.github.io/chatgpt-master-navi/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ChatGPT GPT-4o無料版：2024年最新の使い方と制限【完全ガイド】</title>
+      <link>https://musclelove-777.github.io/chatgpt-master-navi/articles/chatgpt-gpt4o-free-2024-usage-limit.html</link>
+      <guid>https://musclelove-777.github.io/chatgpt-master-navi/articles/chatgpt-gpt4o-free-2024-usage-limit.html</guid>
+      <description></description>
+      <category>ChatGPT 料金・プラン</category>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 無料版 有料版 比較 2024: 全プラン徹底解説</title>
+      <link>https://musclelove-777.github.io/chatgpt-master-navi/articles/chatgpt-free-paid-comparison-2024.html</link>
+      <guid>https://musclelove-777.github.io/chatgpt-master-navi/articles/chatgpt-free-paid-comparison-2024.html</guid>
+      <description></description>
+      <category>ChatGPT 料金・プラン</category>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT PlusとTeamプラン徹底比較！違い、料金、機能を完全解説</title>
+      <link>https://musclelove-777.github.io/chatgpt-master-navi/articles/chatgpt-plus-team-plan-hikaku.html</link>
+      <guid>https://musclelove-777.github.io/chatgpt-master-navi/articles/chatgpt-plus-team-plan-hikaku.html</guid>
+      <description></description>
+      <category>ChatGPT 料金・プラン</category>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>GPT-4o API料金・日本語活用の徹底ガイド</title>
+      <link>https://musclelove-777.github.io/chatgpt-master-navi/articles/gpt-4o-api-pricing-japanese-usage-guide.html</link>
+      <guid>https://musclelove-777.github.io/chatgpt-master-navi/articles/gpt-4o-api-pricing-japanese-usage-guide.html</guid>
+      <description></description>
+      <category>ChatGPT API・開発</category>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
