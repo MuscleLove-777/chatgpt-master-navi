@@ -1,0 +1,45 @@
+{
+  "title": "ChatGPT 無料版 できること完全ガイド",
+  "content": "# ChatGPT 無料版 できること完全ガイド\n\ncanonical URL: https://musclelove-777.github.io/chatgpt-master-navi/articles/chatgpt-free-version-can-do.html\n\n## この記事でわかること\n- ChatGPT 無料版 できることを2026年5月時点の最新情報で整理できます\n- ChatGPT 登録方法、ChatGPT ログイン、スマホアプリでの始め方がわかります\n- 無料版とPlus、旧Team相当のBusiness、Enterpriseの違いを比較できます\n\n## 結論から言うと\nChatGPT 無料版 できることは、文章作成、日本語での相談、Web検索、画像・ファイルの読み取り、GPTsの利用、画像生成、データ分析まで広がっています。まずは無料で始め、回数制限や業務利用の管理が必要になったらPlusやBusiness以上を検討するのが現実的です。\n\n## 本題\n\n### ChatGPT 無料版とは\nChatGPT 無料版は、OpenAIが提供する0ドルの個人向けプランです。2026年5月時点では、無料ユーザーでもGPT-5.5 Instantを使えます。ただし、メッセージ数、アップロード、画像生成、深い調査、メモリ、コンテキスト量には制限があります。\n\nつまり、ChatGPT 使い方を覚える段階なら無料版で十分です。メール文の下書き、要約、翻訳、学習サポート、アイデア出し、表の整理、スマホでの音声相談など、日常利用の大半は無料で試せます。\n\n{{internal_link:ChatGPT 始め方}}\n\n### ChatGPT 無料版 できること一覧\nChatGPT 無料版 できることを実用目線でまとめると、次の通りです。\n\n| 機能 | 無料版でできること | 注意点 |\n|---|---|---|\n| 日本語チャット | 質問、相談、文章作成、要約、翻訳 | 専門判断は最終確認が必要 |\n| Web検索 | 最新情報を検索して回答 | 常に出典を確認する |\n| 画像理解 | 写真やスクリーンショットの内容を説明 | 回数制限あり |\n| ファイルアップロード | PDF、表、資料の要約や分析 | 無料版は制限あり |\n| データ分析 | 表データの傾向整理、グラフ案、集計補助 | 大容量データは有料向き |\n| 画像生成 | 簡単な画像作成 | 生成速度と回数に制限あり |\n| GPTs利用 | 公開GPTsを見つけて使う | GPT作成は有料プランが対象 |\n| スマホ利用 | iOS、Android、Webで利用 | 公式アプリを使う |\n| ファイルライブラリ | 500MBの保存容量 | 不要ファイルは削除する |\n\nOpenAI公式ヘルプでは、無料ユーザーもWeb検索、データ分析、画像・ファイルアップロード、GPTs利用、画像生成、Library 500MBを利用できると案内されています。参考: https://help.openai.com/en/articles/9275245-using-chatgpt-s-free-tier-faq\n\n### 無料版で特に便利な使い道\n初心者におすすめのChatGPT 使い方は、まず「自分の作業を短くしてもらう」ことです。たとえば、長いメールを3行に要約する、会議メモからTODOを抜き出す、難しい文章を中学生にもわかる日本語に直す、旅行の持ち物リストを作る、といった使い方です。\n\n日本語でそのまま入力して問題ありません。ChatGPT 日本語対応は実用レベルで、敬語、ビジネス文、カジュアル文の書き分けもできます。\n\nすぐ使えるプロンプト例:\n\n```text\n以下の文章を、取引先に送れる丁寧な日本語メールに直してください。件名も3案ください。\n```\n\n```text\nこのPDFの内容を、1.要点 2.注意点 3.次にやること の順でまとめてください。\n```\n\n```text\nこの画像を見て、問題点と改善案を初心者向けに説明してください。\n```\n\n### 無料版でできないこと・制限されること\nChatGPT 無料版 できることは多い一方で、制限も明確です。GPT-5.5 ThinkingやGPT-5.5 Proは無料版では使えません。長い資料を大量に扱う、毎日何十回も画像生成する、社内メンバーで管理する、監査やSSOが必要、という用途では有料プランが向いています。\n\nまた、無料版は混雑時に応答が遅くなる場合があります。GPTsは利用できますが、自分専用のGPT作成は有料プラン側の機能です。\n\n{{internal_link:ChatGPT 無料と有料の違い}}\n\n### 日本ユーザー向けの注意点\n日本からChatGPTは通常利用できます。Web版は https://chatgpt.com から使い、スマホではApp StoreまたはGoogle Playの公式「ChatGPT」アプリを選びます。似た名前の非公式アプリもあるため、提供元がOpenAIであることを確認してください。\n\n料金はOpenAI公式では米ドル表記です。Plusは月額20ドル、Proは月額200ドル、Businessは月額25ドル/ユーザーまたは年払い20ドル/ユーザーです。日本円の請求額は為替、税、アプリストア決済の条件で変わります。\n\n## 使い方手順\n\n### Step 1: ChatGPTに登録する\nChatGPT 登録方法は簡単です。\n\n1. ブラウザで https://chatgpt.com にアクセスします。\n2. 「Sign up」または「無料で登録」を選びます。\n3. メールアドレス、Google、Apple、Microsoftアカウントのいずれかで登録します。\n4. 認証メールや画面の案内に従います。\n5. ChatGPT ログイン後、入力欄に日本語で質問します。\n\nスクリーンショット位置指示: 登録画面の「Sign up」ボタン、ログイン後の入力欄、左下の設定メニューをそれぞれ掲載してください。\n\n### Step 2: スマホアプリで使う\nChatGPT スマホ利用なら、公式ChatGPT アプリが便利です。\n\n1. iPhoneはApp Store、AndroidはGoogle Playを開きます。\n2. 「ChatGPT」と検索します。\n3. 開発元がOpenAIであることを確認します。\n4. インストールしてログインします。\n5. 音声入力や写真アップロードを試します。\n\nスクリーンショット位置指示: アプリストアの公式アプリ表示、ログイン画面、チャット入力欄、画像アップロードボタンを入れると初心者が迷いません。\n\n### Step 3: 無料版で最初に試す3つの活用\n最初は次の3つを試してください。\n\n1つ目は文章作成です。「上司に送る報告メールを作って」と頼むだけで下書きが出ます。2つ目は要約です。長文を貼り付けて「300字で要約」と指定します。3つ目は学習です。「ExcelのVLOOKUPを初心者向けに例つきで説明」と聞くと、手順つきで学べます。\n\nCTA: 今日やることを1つ選び、ChatGPTに「この作業を10分で終わらせる手順を作って」と入力してください。無料版の価値がすぐにわかります。\n\n## 比較\n\n### 無料版・Plus・Business・Enterprise比較\n2026年5月時点では、旧ChatGPT TeamはChatGPT Businessに名称変更されています。Teamで調べている人はBusinessを確認してください。\n\n| プラン | 料金 | 主な対象 | できること | 向いている人 |\n|---|---:|---|---|---|\n| Free | 0ドル/月 | 個人 | GPT-5.5 Instant、検索、画像・ファイルアップロード、画像生成、GPTs利用、Library 500MB | 初心者、たまに使う人 |\n| Plus | 20ドル/月 | 個人 | 無料版より高い上限、GPT-5.5 Thinking、画像生成・ファイル分析・Deep Research拡張、Custom GPT作成 | 毎日使う個人、学習・副業 |\n| Business（旧Team相当） | 月払い25ドル/ユーザー、年払い20ドル/ユーザー | 2名以上の組織 | 専用ワークスペース、管理機能、業務データを学習に使わない設定、SSO/MFAなど | 会社、チーム利用 |\n| Enterprise | 個別見積もり | 大企業 | 拡張コンテキスト、SCIM、EKM、データ保持、データレジデンシー、SLA、24/7優先サポート | セキュリティ・監査が必要な大規模組織 |\n\n公式料金参考: https://chatgpt.com/pricing/ 、Plus: https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus 、Business: https://help.openai.com/en/articles/8792536 、Pro: https://help.openai.com/en/articles/9793128-what-is-chatgpt-pro/\n\n### 代替サービスとの比較\n| サービス | 無料利用 | 強み | ChatGPT無料版との違い |\n|---|---|---|---|\n| ChatGPT | あり | 日本語文章、画像・ファイル、検索、GPTsの総合力 | 初心者が始めやすい |\n| Gemini | あり | Googleサービスとの連携 | Google Workspace中心なら便利 |\n| Claude | あり | 長文読解、自然な文章 | 日本語の長文推敲に強い場面がある |\n| Perplexity | あり | 検索型回答と出典確認 | 調査特化で使いやすい |\n\n結論として、ChatGPT 無料版 できることを試してから、検索重視ならPerplexity、Google連携重視ならGemini、長文推敲重視ならClaudeも併用すると効率的です。\n\n{{internal_link:ChatGPT プロンプト術}}\n\n## よくある質問（FAQ）\n\n### Q1: ChatGPT 無料版 できることは何ですか？\nA1: 日本語チャット、文章作成、要約、翻訳、Web検索、画像やファイルの読み取り、データ分析、画像生成、GPTsの利用ができます。ただし、回数や速度、容量には制限があります。\n\n### Q2: ChatGPT 無料版だけで仕事に使えますか？\nA2: 個人の下書き、調査、要約、アイデア出しには使えます。会社の機密情報や顧客情報を扱う場合は、BusinessまたはEnterpriseの管理機能と社内ルールを確認してください。\n\n### Q3: ChatGPT 登録方法は難しいですか？\nA3: 難しくありません。chatgpt.comでメール、Google、Apple、Microsoftアカウントを使って登録し、ログインすればすぐに日本語で使えます。\n\n### Q4: ChatGPT スマホアプリは無料ですか？\nA4: 公式ChatGPT アプリは無料でインストールできます。有料プランを契約しない限り、基本は無料版として使えます。\n\n### Q5: Plusにするべきタイミングはいつですか？\nA5: 無料版の上限に頻繁に達する、画像生成やファイル分析を毎日使う、より高度な推論モデルを使いたい、Custom GPTを作りたい場合はPlusを検討してください。\n\nFAQPage構造化データは、このJSONのfaq配列をそのままquestionとanswerに対応させて生成できます。\n\n## まとめ\nChatGPT 無料版 できることは、2026年時点でかなり実用的です。文章作成、要約、翻訳、検索、画像理解、ファイル分析、画像生成まで無料で試せるため、ChatGPT 始め方で迷っている人は、まず公式サイトか公式アプリで登録して使い始めるのが最短です。\n\n最初の一歩は「今日の作業を1つChatGPTに任せる」ことです。メール、資料要約、調べもの、学習メモのどれかを選び、無料版で実際に試してください。制限に当たるようになったら、Plus、Business、Enterpriseへ進む判断ができます。\n\n参考情報: OpenAI Free Tier FAQ https://help.openai.com/en/articles/9275245-using-chatgpt-s-free-tier-faq / OpenAI ChatGPT Release Notes https://help.openai.com/en/articles/6825453-release-notes / ChatGPT Pricing https://chatgpt.com/pricing/",
+  "meta_description": "ChatGPT 無料版 できることを2026年最新情報で解説。登録方法、スマホ利用、有料プラン比較まで初心者向けに紹介。",
+  "tags": [
+    "ChatGPT無料",
+    "ChatGPT使い方",
+    "ChatGPT始め方",
+    "ChatGPTアプリ",
+    "料金プラン比較"
+  ],
+  "slug": "chatgpt-free-version-can-do",
+  "faq": [
+    {
+      "question": "ChatGPT 無料版 できることは何ですか？",
+      "answer": "日本語チャット、文章作成、要約、翻訳、Web検索、画像やファイルの読み取り、データ分析、画像生成、GPTsの利用ができます。ただし、回数や速度、容量には制限があります。"
+    },
+    {
+      "question": "ChatGPT 無料版だけで仕事に使えますか？",
+      "answer": "個人の下書き、調査、要約、アイデア出しには使えます。会社の機密情報や顧客情報を扱う場合は、BusinessまたはEnterpriseの管理機能と社内ルールを確認してください。"
+    },
+    {
+      "question": "ChatGPT 登録方法は難しいですか？",
+      "answer": "難しくありません。chatgpt.comでメール、Google、Apple、Microsoftアカウントを使って登録し、ログインすればすぐに日本語で使えます。"
+    },
+    {
+      "question": "ChatGPT スマホアプリは無料ですか？",
+      "answer": "公式ChatGPT アプリは無料でインストールできます。有料プランを契約しない限り、基本は無料版として使えます。"
+    },
+    {
+      "question": "Plusにするべきタイミングはいつですか？",
+      "answer": "無料版の上限に頻繁に達する、画像生成やファイル分析を毎日使う、より高度な推論モデルを使いたい、Custom GPTを作りたい場合はPlusを検討してください。"
+    }
+  ],
+  "hero_emoji": "📝",
+  "hero_gradient": "135deg",
+  "image_search_query": "",
+  "keyword": "ChatGPT 無料版 できること",
+  "category": "ChatGPT 使い方",
+  "generated_at": "2026-05-19T09:52:40.199037",
+  "file_path": "C:\\Users\\atsus\\000_ClaudeCode\\10_事業部\\03_コンテンツ_ブログ_Youtube\\007_自動投稿ブログ\\chatgpt-master-navi\\output\\articles\\20260519_095240_chatgpt-free-version-can-do.json",
+  "has_affiliate": false,
+  "affiliate_count": 0,
+  "eyecatch_url": "images/chatgpt-free-version-can-do.png"
+}
